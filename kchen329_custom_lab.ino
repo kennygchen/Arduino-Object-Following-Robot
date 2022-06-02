@@ -215,7 +215,7 @@ void setup() {
   pinMode(led, OUTPUT);
   AFMS.begin();
   unsigned char i = 0;
-  tasks[i].state = DRIVE;
+  tasks[i].state = PARK;
   tasks[i].period = 50;
   tasks[i].elapsedTime = 0;
   tasks[i].TickFct = &CAR_Tick;
