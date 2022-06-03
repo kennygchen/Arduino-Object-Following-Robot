@@ -1,4 +1,6 @@
 # Arduino Object Following Robot
+<img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_1.jpg" width=50% height=50%>
+
 Object Following Robot is a robot that uses a combination of Ultrasonic and infrared sensors to track an object. When the robot is on, it will detect if there is an object in front of it. If there is no object in front of it, the robot will be in idle mode. If there is an object in front of it, the robot will follow that object.
 
 ## User Guide
@@ -27,4 +29,10 @@ When the robot is first powered on, it will be in PARK mode where the robot woul
     - It allows easier control of the DC motors with the motor shield.
 
 ## Wiring Diagram
-![Wiring Diagram](https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/wiring%20diagram.png)
+![Wiring Diagram](https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/wiring%20diagram.png)
+
+## Demo
+<img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_1.jpg" width=40% height=40%><img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_4.jpg" width=40% height=40%>
+
+<img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_2.jpg" width=40% height=40%><img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_3.jpg" width=40% height=40%>
+
