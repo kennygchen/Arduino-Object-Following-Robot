@@ -1,5 +1,7 @@
 # Arduino Object Following Robot
-<img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_1.jpg" width=50% height=50%>
+<div align="center">
+    <img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_1.jpg" width=50% height=50%>
+</div>
 
 Object Following Robot is a robot that uses a combination of Ultrasonic and infrared sensors to track an object. When the robot is on, it will detect if there is an object in front of it. If there is no object in front of it, the robot will be in idle mode. If there is an object in front of it, the robot will follow that object.
 
@@ -32,7 +34,17 @@ When the robot is first powered on, it will be in PARK mode where the robot woul
 ![Wiring Diagram](https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/wiring%20diagram.png)
 
 ## Demo
-<img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_1.jpg" width=40% height=40%><img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_4.jpg" width=40% height=40%>
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=of4G5A_wSq4">
+         <img src="https://i.imgur.com/saBPdOW.png" style="width:50%;">
+      </a>
+</div>
 
-<img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_2.jpg" width=40% height=40%><img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_3.jpg" width=40% height=40%>
-
+<div align="center">
+    <img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_1.jpg" width=40% height=40%>
+    <img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_4.jpg" width=40% height=40%>
+</div>
+<div align="center">
+    <img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_2.jpg" width=40% height=40%>
+    <img src="https://github.com/kennygchen/Arduino-Object-Following-Robot/blob/main/images/robot_3.jpg" width=40% height=40%>
+</div>
